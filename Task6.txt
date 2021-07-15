@@ -1,0 +1,6 @@
+Geografia: 20(t) 10(p) 5(l)
+Fizica: 40(t) 15(p) 10(l)
+Matematica: 45(t) 15(p) -
+Chimia: 30(t) - 20(l)
+
+
